@@ -1,4 +1,4 @@
-# MLP_PSO
+# CSharpSamples
 C# samples explained by Nick Chapsas.
 Nick Chapsas Youtub channel: https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg
 Nick Chapsas GitHub: https://github.com/Elfocrash
