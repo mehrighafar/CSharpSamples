@@ -9,5 +9,5 @@ Nick Chapsas GitHub: https://github.com/Elfocrash
 clone the project.
 
 ```shell script
-git clone https://github.com/mehrighafar/CSharpSamples/tree/AwaitAnything
+git clone -b AwaitAnything --single-branch https://github.com/mehrighafar/CSharpSamples.git
 ```
